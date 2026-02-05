@@ -77,3 +77,5 @@ seq = SequenceAnalyzer("ATGCGATCGATCGTAGCTA")
 #print(seq.Transcribe())
 #print(seq.Reverse())
 print(seq.generate_report())
+
+#this is a change
