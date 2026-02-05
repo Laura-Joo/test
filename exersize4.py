@@ -79,3 +79,4 @@ seq = SequenceAnalyzer("ATGCGATCGATCGTAGCTA")
 print(seq.generate_report())
 
 #this is a change
+#this is another message
